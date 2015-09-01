@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoPaymentGateway</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="match_parent">match_parent</string>
+    <string name="wrap_content">wrap_content</string>
+
+</resources>
