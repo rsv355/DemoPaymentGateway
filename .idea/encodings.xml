@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/PayPalAndroidSDK-2.9.11.jar" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/libs/android-volley-1.0.10.jar" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/libs/bolts-android-1.2.0.jar" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/libs/eventbus-2.4.0.jar" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/ConfigureVisaPaymentInfo.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/CustomViewVisaCheckoutFragment.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/SampleActivity.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/ViewPagerAdapter.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/VisaExpressCheckoutFragment.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/krishna/demopayment/VisaPaymentButtonFragment.java" charset="windows-1252" />

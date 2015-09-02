@@ -12,11 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <Button
-        android:id="@+id/btnMaster"
-        android:text="Pay by MasterCard"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+
 
     <Button
         android:id="@+id/btnPaypal"
